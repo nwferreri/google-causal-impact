@@ -1,8 +1,8 @@
-# Google Causal Impact - Volkswagen CO2 Scandal
+# Google Causal Impact - Volkswagen CO<sub>2</sub> Scandal
 
 ## Question
 
-What effect did the 2015 CO2 scandal have on the price of Volkswagen stock?
+What effect did the 2015 CO<sub>2</sub> scandal have on the price of Volkswagen stock?
 
 ## Data
 
@@ -21,4 +21,4 @@ With a training period from January 2015 through August 2015 and a treatment per
 
 ## Conclusions
 
-The analysis clearly shows a negative impact of the CO2 scandal on the price of Volkswagen stock.  On average, the decrease in price was about 20% compared to the price prior to the scandal.
+The analysis clearly shows a negative impact of the CO<sub>2</sub> scandal on the price of Volkswagen stock.  On average, the decrease in price was about 20% compared to the price prior to the scandal.
